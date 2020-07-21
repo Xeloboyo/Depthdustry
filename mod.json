@@ -1,0 +1,8 @@
+name: depthdustry
+displayName: Depthdustry
+author: Xelo
+description: This meme texturepack is the result of abusing a single plugin on paint.net
+version: "0.0.1"
+hidden: true
+minGameVersion: "104.0"
+dependencies: [ ]
