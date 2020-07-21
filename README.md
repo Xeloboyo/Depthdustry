@@ -20,4 +20,5 @@ Cut into new layer<br>
 Then apply drop shadow<br>
 <a href="https://ibb.co/qBxBqsB"><img src="https://i.ibb.co/kKMKb8K/image.png" alt="image" border="0"></a><br>
 <br><br>
-Repeat until satisfied.
+Repeat until satisfied.<br>
+<a href="https://ibb.co/sCZ2vC0"><img src="https://i.ibb.co/XDqbZDh/image.png" alt="image" border="0"></a>
